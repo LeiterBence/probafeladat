@@ -1,0 +1,49 @@
+body{
+    background-color: #403434;
+}
+.fodiv{
+    width: 600px;
+    margin: auto;
+}
+header h1{
+    color: white;
+    background: url(bordofal.jpg);
+    padding: 25px;
+}
+header{
+    margin-bottom: -22px;
+    margin-top:-22px;
+}
+.menuk{
+    display: flex;
+}
+.nav{
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding: 10px;
+
+}
+.menu{
+    width: 400px;
+    background: url(hatter.jpg);
+    padding: 25px;
+}
+.menukis{
+    background-color:rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border: 3px solid rgba(255, 255, 255, 0.5);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a div:hover{
+    background-color: grey;
+}
+a div{
+    padding: 10px;
+}
